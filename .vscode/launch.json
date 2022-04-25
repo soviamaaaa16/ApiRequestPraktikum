@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "j7_apireq",
+            "cwd": "j7_apireq",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "j7_apireq (profile mode)",
+            "cwd": "j7_apireq",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "j7_apireq (release mode)",
+            "cwd": "j7_apireq",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
